@@ -140,10 +140,10 @@ Below is a list of each of the script files included in this repository and a de
                    
 
 10.  "10 - unsupervised learning.R"
-    
-    Description:  Unsupervised learning methods, including principal components analysis (PCA), k-means clustering, and hierarchical clustering
-    
-    Sub-sections:  
+
+     Description:  Unsupervised learning methods, including principal components analysis (PCA), k-means clustering, and hierarchical clustering
+     
+     Sub-sections:  
     
                    a. Principal components analysis (PCA)
                    
