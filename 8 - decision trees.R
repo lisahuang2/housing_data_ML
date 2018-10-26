@@ -1,4 +1,4 @@
-##### 7 - Decision Trees #####
+##### 8 - Decision Trees #####
 
 
 ##-- a. Classification trees --##
