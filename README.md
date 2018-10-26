@@ -1,11 +1,13 @@
 # housing_data_ML
 machine learning and data visualization for king county housing data
 
-In this project, I use statistical machine learning to predict housing prices, using a data set of houses located in King County, WA. The data were obtained from Kaggle at https://www.kaggle.com/harlfoxem/housesalesprediction. The analyses in this project include supervised learning methods for regression and classification as well as unsupervised learning methods. Supervised regression methods include linear and nonlinear regression, subset selection, ridge regression and lasso, principal components regression, and decision trees such as bagging and random forests. Supervised categorization methods include logistic regression, linear and quadratic discriminant analysis, k-nearest neighbors, classification trees, and support vector machines. Unsupervised methods including principal components analysis and clustering. 
+In this project, I use statistical machine learning to predict housing prices, using a data set of houses located in King County, WA. The data were obtained from Kaggle at https://www.kaggle.com/harlfoxem/housesalesprediction. 
 
-The primary resource I used for learning these techniques and implementing them in R come from 
+The analyses in this project include supervised learning methods for regression and classification as well as unsupervised learning methods. Supervised regression methods include linear and nonlinear regression, subset selection, ridge regression and lasso, principal components regression, and decision trees such as bagging and random forests. Supervised categorization methods include logistic regression, linear and quadratic discriminant analysis, k-nearest neighbors, classification trees, and support vector machines. Unsupervised methods including principal components analysis and clustering. 
 
+The primary resource I used for learning these techniques and implementing them in R come from a textbook called "An Introduction to Statistical Learning, with Applications in R," written by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani. A free pdf copy of the book is available at https://www-bcf.usc.edu/~gareth/ISL/. Free complementary lecture video are available through Stanford Online courses at https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about. 
 
+A side note related to analyses in this project - 
 
 
 Below is a list of each of the script files included in this repository and a description of each of the files. 
