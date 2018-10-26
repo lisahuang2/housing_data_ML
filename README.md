@@ -10,3 +10,4 @@ Below are descriptions of each of the script files included in this repository:
                    c. Plot the correlations among the variables
                    d. Plot the relationship between sqrt_price (the outcome variable) and each predictor variable
                    
+2. 
