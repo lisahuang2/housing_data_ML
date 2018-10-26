@@ -1,7 +1,7 @@
 # housing_data_ML
 machine learning and data visualization for king county housing data
 
-In this project, I use statistical machine learning to predict housing prices, using a data set of houses located in King County, WA. The data were obtained from Kaggle at https://www.kaggle.com/harlfoxem/housesalesprediction. 
+In this project, I use statistical machine learning to predict housing prices, using a data set of houses located in King County, WA. The data were obtained from Kaggle at https://www.kaggle.com/harlfoxem/housesalesprediction. In this repository, the data are located in "kc_house_data.csv", and a description of the variables in the data set is located in "king county housing column reference.doc".  
 
 The analyses in this project include supervised learning methods for regression and classification as well as unsupervised learning methods. Supervised regression methods include linear and nonlinear regression, subset selection, ridge regression and lasso, principal components regression, and decision trees such as bagging and random forests. Supervised categorization methods include logistic regression, linear and quadratic discriminant analysis, k-nearest neighbors, classification trees, and support vector machines. Unsupervised methods including principal components analysis and clustering. 
 
