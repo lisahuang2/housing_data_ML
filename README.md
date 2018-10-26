@@ -113,3 +113,42 @@ Below is a list of each of the script files included in this repository and a de
                    c. K-Nearest Neighbors (KNN)
                                      
                    
+8.  "8 - decision trees.R"
+    
+    Description:  Decision trees for regression and classification, including bagging, random forests, and boosting
+    
+    Sub-sections:  
+    
+                   a. Classification trees
+                   
+                   b. Regression trees
+                   
+                   c. Bagging and random forests
+                   
+                   d. Boosting
+                   
+                   
+9.  "9 - support vector machines.R"
+    
+    Description:  Support vector classifiers and support vector machines for classification
+    
+    Sub-sections:  
+    
+                   a. Support vector classifiers
+                   
+                   b. Support vector machines
+                   
+
+10.  "10 - unsupervised learning.R"
+    
+    Description:  Unsupervised learning methods, including principal components analysis (PCA), k-means clustering, and hierarchical clustering
+    
+    Sub-sections:  
+    
+                   a. Principal components analysis (PCA)
+                   
+                   b. K-means clustering
+                   
+                   c. Hierarchical clustering
+                   
+                
