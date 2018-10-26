@@ -1,4 +1,4 @@
-##### 9 - Unsupervised Learning Methods #####
+##### 10 - Unsupervised Learning Methods #####
 
 
 #Unsupervised learning methods look for patterns in the data, without taking into account
