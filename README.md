@@ -18,6 +18,7 @@ Below is a list of each of the script files included in this repository and a de
                    
                    d. Plot the relationship between sqrt_price (the outcome variable) and each predictor variable
                    
+
 2.  "2 - linear regression.R"
 
     Description:  Simple and multiple linear regression, polynomial regression, and cross-validation
@@ -36,6 +37,7 @@ Below is a list of each of the script files included in this repository and a de
                    
                    f. Plotting the linear polynomial regression model
                    
+
 3.  "3 - subset selection.R"
 
     Description:  Linear model selection using best subset selection and forward and backward stepwise regression
@@ -52,9 +54,10 @@ Below is a list of each of the script files included in this repository and a de
                    
                    e. Choosing a model using 10-fold cross-validation
                  
+
 4.  "4 - ridge regression and lasso.R"
     
-    Description:  Dimension reduction in linear models using ridge regression and lasso 
+    Description:  Shrinkage in linear models using ridge regression and lasso 
     
     Sub-sections:  
     
@@ -65,7 +68,35 @@ Below is a list of each of the script files included in this repository and a de
                    c. Lasso
                    
                    d. Lasso with cross-validation
-                       
-               
-               
+                   
+
+5.  "5 - PCR and PLC.R"
+    
+    Description:  Dimension reduction in linear models using principal components regression and partial least squares 
+    
+    Sub-sections:  
+    
+                   a. Principal components regression (PCR)
+                   
+                   b. PCR with cross-validation
+                   
+                   c. Partial least squares (PLS) with cross-validation
+                   
+                   
+6.  "6 - logistic regression.R"
+    
+    Description:  Categorization using logistic regression and logistic polynomial regression, with cross-validation 
+    
+    Sub-sections:  
+    
+                   a. Logistic regression
+                   
+                   b. Logistic regression with cross-validation
+                   
+                   c. Logistic polynomial regression
+                   
+                   d. Logistic polynomial regression with the validation set approach
+                   
+                   e. Plotting the logistic polynomial regression model
+                                     
                    
