@@ -100,3 +100,16 @@ Below is a list of each of the script files included in this repository and a de
                    e. Plotting the logistic polynomial regression model
                                      
                    
+7.  "7 - LDA, QDA, and KNN.R"
+    
+    Description:  Linear discriminant analysis, quadratic discriminant analysis, and k-nearest neighbors for categorization 
+    
+    Sub-sections:  
+    
+                   a. Linear Discriminant Analysis (LDA)
+                   
+                   b. Quadratic Discriminant Analysis (QDA)
+                   
+                   c. K-Nearest Neighbors (KNN)
+                                     
+                   
