@@ -6,7 +6,7 @@
 
 
 
-##-- 1. Linear Discriminant Analysis (LDA) --##
+##-- a. Linear Discriminant Analysis (LDA) --##
 
 
 #Use the lda() function from the MASS library to perform LDA.  
@@ -72,7 +72,7 @@ mean(pred.class!=test$price2)    #18.26% error rate
 
 
 
-##-- 2. Quadratic Discriminant Analysis (QDA) --##
+##-- b. Quadratic Discriminant Analysis (QDA) --##
 
 
 #Use the qda() function from the MASS library to fit a QDA model.
@@ -113,7 +113,7 @@ mean(qda.pred2$class!=test$price2)    #19.22% error rate
 
 
 
-##-- 3. K-Nearest Neighbors (KNN) --##
+##-- c. K-Nearest Neighbors (KNN) --##
 
 
 #Use the knn() function from the class library to run k-nearest neighbors.
