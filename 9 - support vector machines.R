@@ -1,4 +1,4 @@
-##### 8 - Support Vector Machines #####
+##### 9 - Support Vector Machines #####
 
 
 #Use the e1071 library to fit support vector classifiers and support vector machines.
