@@ -16,7 +16,6 @@ Credit goes to "An Introduction to Statistical Learning, with Applications in R,
 Data files in this repository: 
 
 - "kc_house_data.csv" - the data set on which the analyses and modeling were conducted
-
 - "king county housing column reference.docx" - document containing a description of each of the variables in the data set 
 
 ##
@@ -26,6 +25,17 @@ Image files of visualizations in this repository:
 - "plot1 - geographic map of houses.png"
 - "plot2 - correlation plot.png"
 - "plot3 - distribution of price.png"
+- "plot4 - distribution of sqrt_price.png"
+- "plot5 - distribution of sqft_living.png"
+- "plot6 - counts of bedrooms.png"
+- "plot7 - counts of bathrooms.png"
+- "plot8 - counts of waterfront.png"
+- "plot9 - counts of grade.png"
+- "plot10 - relationship between sqft_living and sqrt_price.png"
+- "plot11 - relationship between bedrooms and sqrt_price.png"
+- "plot12 - relationship between bathrooms and sqrt_price.png"
+- "plot13 - relationship between waterfront and sqrt_price.png"
+- "plot14 - relationship between grade and sqrt_price.png"
 
 ##
 
