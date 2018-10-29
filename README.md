@@ -18,6 +18,15 @@ Data files in this repository:
 - "kc_house_data.csv" - the data set on which the analyses and modeling were conducted
 - "king county housing column reference.docx" - document containing a description of each of the variables in the data set 
 
+Features in the data set include:
+
+- price - price of each house (the prediction target)
+- sqft_living - square footage of the house
+- sqft_lot - square footage of the lot
+- bedrooms - number of bedrooms in each house
+- bathrooms - number of bathrooms in each house
+
+
 ##
 
 Image files of visualizations in this repository:
