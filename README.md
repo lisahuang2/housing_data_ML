@@ -65,19 +65,19 @@ Image files of visualizations in this repository:
 
 ##
 
-The R scripts I wrote are meant to be followed sequentially, but they should be easy to follow R scripts included in this repository:
+The R scripts I wrote are meant to be followed sequentially, but they should be easy to follow if you want to skip around. Below are the names and descriptions of the scripts included in this repository:
 
 - "1 - EDA and visualizations.R"
 
-    Description:  Exploratory data analysis of King County housing data, with ggplot data visualizations
+    Description:  Exploratory data analysis of King County housing data, with ggplot data visualizations. (see the image files in this repository for a sample of the plots.)
     
     Sub-sections:  
                    
                    a. Map the houses in King County
                    
-                   b. Summary statistics and plots of each variable
+                   b. Summary statistics and plots of each variable 
                    
-                   c. Plot the correlations among the variables
+                   c. Plot the correlations among the variables 
                    
                    d. Plot the relationship between sqrt_price (the outcome variable) and each predictor variable
                    
