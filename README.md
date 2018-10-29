@@ -23,9 +23,20 @@ Features in the data set include:
 - price - price of each house (the prediction target)
 - sqft_living - square footage of the house
 - sqft_lot - square footage of the lot
+- sqft_above - square footage of the house apart from the basement
+- sqft_basement - square footage of the basement
+- sqft_living15 - square footage of the house in 2015 (implies renovations)
+- sqft_lot15 - square footage of the lot in 2015 (implies renovations)
 - bedrooms - number of bedrooms in each house
 - bathrooms - number of bathrooms in each house
-
+- floors - number of floors in each house
+- waterfront - whether the house has a waterfront view (0 if no, 1 if yes)
+- condition - the condition of the house, on a 1-5 scale
+- grade - overall grade given to the house, based on the King County grading system (higher values indicate a nicer house)
+- yr_built - year the house was built
+- zipcode - zipcode in which the house is located
+- lat - latitude coordinate of the house
+- long - longitude coordinate of the house
 
 ##
 
