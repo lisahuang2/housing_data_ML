@@ -1,13 +1,21 @@
 # housing_data_ML
 machine learning and data visualization for king county housing data
 
-In this project, I built statistical machine learning models to predict housing prices, using a data set of houses located in King County, WA. The data were obtained from Kaggle at https://www.kaggle.com/harlfoxem/housesalesprediction. In this repository, the data are located in "kc_house_data.csv", and a description of the variables in the data set is located in "king county housing column reference.docx". Each observation in the data set represents a house located in King County. The goal was to predict house prices based on other features of the houses, including square footage, the number of bedrooms and bathrooms, and condition, among others. In this project, I also created graphical visualizations of the data and the relationships among the variables using ggplot in R.    
+In this project, I built statistical machine learning models to predict housing prices, using a data set of houses located in King County, WA. The data were obtained from Kaggle at https://www.kaggle.com/harlfoxem/housesalesprediction. Each observation in the data set represents a house located in King County. The goal was to predict house prices based on other features of the houses, including square footage, the number of bedrooms and bathrooms, and condition, among others. In this project, I also created graphical visualizations of the data and the relationships among the variables using ggplot in R.    
 
 The models that I built come from supervised learning methods for regression and classification, as well as unsupervised learning methods. The supervised regression methods I used include linear and nonlinear regression, subset selection, ridge regression and lasso, principal components regression, and decision trees such as bagging and random forests. The supervised categorization methods I used include logistic regression, linear and quadratic discriminant analysis, k-nearest neighbors, classification trees, and support vector machines. The unsupervised methods include principal components analysis and clustering. 
 
-The primary resource I used for learning these techniques and implementing them in R come from a textbook called "An Introduction to Statistical Learning, with Applications in R," written by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani. A free pdf copy of the book is available at https://www-bcf.usc.edu/~gareth/ISL/. Free complementary lecture video are available through Stanford Online courses at https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about. 
+Credit goes to "An Introduction to Statistical Learning, with Applications in R," written by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani, for guidance on building the machine learning models, and to "R Graphics Cookbook," by Winston Chang, for guidance on creating the ggplot visualizations.  
 
-*A side note related to analyses in this project - Although the data lends itself best to using regression methods because the outcome variable of interest (price) is a continuous variable, I included classification and unsupervised learning methods in the analyses for the sake of my own learning and for a thorough demonstration of those techniques. I conducted classification by first dichotomizing the price variable, then performing classification using this dichotomized variable. I would normally be more selective about the models I chose, but my goal here is to demonstrate a range of possible techniques.
+*A side note related to analyses in this project - Although the data lends itself best to using regression methods because the outcome variable of interest (price) is a continuous variable, I included classification and unsupervised learning methods in the analyses for a thorough demonstration of those techniques. I conducted classification by dichotomizing the price variable, then performing classification using this dichotomized variable. I would normally be more selective about the models I chose, but my goal here is to demonstrate a range of possible techniques.
+
+##
+
+Files included in this repository: 
+
+- "kc_house_data.csv" - the data set on which the analyses and modeling were conducted
+
+- "king county housing column reference.docx" - document containing a description of each of the variables in the data set 
 
 
 Below is a list of each of the script files included in this repository and a description of each of the files. 
