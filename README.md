@@ -11,7 +11,7 @@ Credit goes to "An Introduction to Statistical Learning, with Applications in R,
 
 *A side note related to analyses in this project - Although the data lends itself best to using regression methods because the outcome variable of interest (price) is a continuous variable, I included classification and unsupervised learning methods in the analyses for a thorough demonstration of those techniques. I conducted classification by dichotomizing the price variable, then performing classification using this dichotomized variable. I would normally be more selective about the models I chose, but my goal here is to demonstrate a range of possible techniques.
 
-##
+###
 
 Files included in this repository: 
 
@@ -19,8 +19,9 @@ Files included in this repository:
 
 - "king county housing column reference.docx" - document containing a description of each of the variables in the data set 
 
+#
 
-R scripts:
+R scripts included in this repository:
 
 - "1 - EDA and visualizations.R"
 
@@ -37,7 +38,7 @@ R scripts:
                    d. Plot the relationship between sqrt_price (the outcome variable) and each predictor variable
                    
 
-2.  "2 - linear regression.R"
+-  "2 - linear regression.R"
 
     Description:  Simple and multiple linear regression, polynomial regression, and cross-validation
     
@@ -56,7 +57,7 @@ R scripts:
                    f. Plotting the linear polynomial regression model
                    
 
-3.  "3 - subset selection.R"
+-  "3 - subset selection.R"
 
     Description:  Linear model selection using best subset selection and forward and backward stepwise regression
     
@@ -73,7 +74,7 @@ R scripts:
                    e. Choosing a model using 10-fold cross-validation
                  
 
-4.  "4 - ridge regression and lasso.R"
+-  "4 - ridge regression and lasso.R"
     
     Description:  Shrinkage in linear models using ridge regression and lasso 
     
@@ -88,7 +89,7 @@ R scripts:
                    d. Lasso with cross-validation
                    
 
-5.  "5 - PCR and PLC.R"
+-  "5 - PCR and PLC.R"
     
     Description:  Dimension reduction in linear models using principal components regression and partial least squares 
     
@@ -101,7 +102,7 @@ R scripts:
                    c. Partial least squares (PLS) with cross-validation
                    
                    
-6.  "6 - logistic regression.R"
+-  "6 - logistic regression.R"
     
     Description:  Categorization using logistic regression and logistic polynomial regression, with cross-validation 
     
@@ -118,7 +119,7 @@ R scripts:
                    e. Plotting the logistic polynomial regression model
                                      
                    
-7.  "7 - LDA, QDA, and KNN.R"
+-  "7 - LDA, QDA, and KNN.R"
     
     Description:  Linear discriminant analysis, quadratic discriminant analysis, and k-nearest neighbors for categorization 
     
@@ -131,7 +132,7 @@ R scripts:
                    c. K-Nearest Neighbors (KNN)
                                      
                    
-8.  "8 - decision trees.R"
+-  "8 - decision trees.R"
     
     Description:  Decision trees for regression and classification, including bagging, random forests, and boosting
     
@@ -146,7 +147,7 @@ R scripts:
                    d. Boosting
                    
                    
-9.  "9 - support vector machines.R"
+-  "9 - support vector machines.R"
     
     Description:  Support vector classifiers and support vector machines for classification
     
@@ -157,7 +158,7 @@ R scripts:
                    b. Support vector machines
                    
 
-10.  "10 - unsupervised learning.R"
+-  "10 - unsupervised learning.R"
 
      Description:  Unsupervised learning methods, including principal components analysis (PCA), k-means clustering, and hierarchical clustering
      
