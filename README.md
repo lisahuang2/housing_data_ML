@@ -46,9 +46,9 @@ Features in the data set include:
 
 ##
 
-Image files of visualizations in this repository:
+Included in this repository are a sample of the plots I made, showing the distribution of variables and their relationships (see the "1 - EDA and visualization.R" script. 
 
-- "plot1 - geographic map of houses.png"
+- "plot1 - geographic map of houses.png" - uses a map shapefile to plot the locations of the houses across the county. Houses are color-coded by price.
 - "plot2 - correlation plot.png"
 - "plot3 - distribution of price.png"
 - "plot4 - distribution of sqrt_price.png"
