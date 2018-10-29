@@ -20,7 +20,9 @@ Data files in this repository:
 
 Features in the data set include:
 
-- price - price of each house (the prediction target)
+- price - price of each house
+- sqrt_price* - the square root of the price
+- price2* - dichotomous price variable, with 0 representing houses that are <$600,00, and 1 representing houses that are <=$600,000
 - sqft_living - square footage of the house
 - sqft_lot - square footage of the lot
 - sqft_above - square footage of the house apart from the basement
@@ -37,6 +39,8 @@ Features in the data set include:
 - zipcode - zipcode in which the house is located
 - lat - latitude coordinate of the house
 - long - longitude coordinate of the house
+
+**The sqrt_price and price2 variables are transformations that I had performed on the original price variable  
 
 ##
 
@@ -59,7 +63,7 @@ Image files of visualizations in this repository:
 
 ##
 
-R scripts included in this repository:
+The R scripts I wrote are meant to be followed sequentially, but they should be easy to follow R scripts included in this repository:
 
 - "1 - EDA and visualizations.R"
 
