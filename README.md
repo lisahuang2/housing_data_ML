@@ -7,6 +7,8 @@ The models that I built come from supervised learning methods for regression and
 
 Credit goes to "An Introduction to Statistical Learning, with Applications in R," written by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani, for guidance on building the machine learning models, and to "R Graphics Cookbook," by Winston Chang, for guidance on creating the ggplot visualizations.  
 
+##
+
 *A side note related to analyses in this project - Although the data lends itself best to using regression methods because the outcome variable of interest (price) is a continuous variable, I included classification and unsupervised learning methods in the analyses for a thorough demonstration of those techniques. I conducted classification by dichotomizing the price variable, then performing classification using this dichotomized variable. I would normally be more selective about the models I chose, but my goal here is to demonstrate a range of possible techniques.
 
 ##
@@ -18,9 +20,9 @@ Files included in this repository:
 - "king county housing column reference.docx" - document containing a description of each of the variables in the data set 
 
 
-Below is a list of each of the script files included in this repository and a description of each of the files. 
+R scripts:
 
-1.  "1 - EDA and visualizations.R"
+- "1 - EDA and visualizations.R"
 
     Description:  Exploratory data analysis of King County housing data, with ggplot data visualizations
     
