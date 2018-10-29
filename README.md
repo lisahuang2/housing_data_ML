@@ -1,5 +1,5 @@
 # housing_data_ML
-machine learning and data visualization for king county housing data
+machine learning and data visualization for king county housing data (July - October 2018)
 
 In this project, I built statistical machine learning models to predict housing prices, using a data set of houses located in King County, WA. The data were obtained from Kaggle at https://www.kaggle.com/harlfoxem/housesalesprediction. Each observation in the data set represents a house located in King County. The goal was to predict house prices based on features of the houses, including square footage, the number of bedrooms and bathrooms, and condition, among others. In this project, I also created graphical visualizations of the data and the relationships among the variables using ggplot in R.    
 
