@@ -41,6 +41,7 @@ Features in the data set include:
 - long - longitude coordinate of the house
 
 *sqrt_price is a transformation that I had performed on the original price variable in order to fit regression models (see the "1 - EDA and visualizations.R" script). I created predictions on a square root transformation of price because the original price variable is heavily positively skewed.
+
 **price2 is a dichotomized price variable that I had created in order to fit categorization models (see the "6 - logistic regression.R" script).
 
 ##
