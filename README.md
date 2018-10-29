@@ -11,7 +11,7 @@ Credit goes to "An Introduction to Statistical Learning, with Applications in R,
 
 *A side note related to analyses in this project - Although the data lends itself best to using regression methods because the outcome variable of interest (price) is a continuous variable, I included classification and unsupervised learning methods in the analyses for a thorough demonstration of those techniques. I conducted classification by dichotomizing the price variable, then performing classification using this dichotomized variable. I would normally be more selective about the models I chose, but my goal here is to demonstrate a range of possible techniques.
 
-###
+##
 
 Files included in this repository: 
 
@@ -19,7 +19,7 @@ Files included in this repository:
 
 - "king county housing column reference.docx" - document containing a description of each of the variables in the data set 
 
-#
+##
 
 R scripts included in this repository:
 
