@@ -13,11 +13,19 @@ Credit goes to "An Introduction to Statistical Learning, with Applications in R,
 
 ##
 
-Files included in this repository: 
+Data files in this repository: 
 
 - "kc_house_data.csv" - the data set on which the analyses and modeling were conducted
 
 - "king county housing column reference.docx" - document containing a description of each of the variables in the data set 
+
+##
+
+Image files of visualizations in this repository:
+
+- "plot1 - geographic map of houses.png"
+- "plot2 - correlation plot.png"
+- "plot3 - distribution of price.png"
 
 ##
 
