@@ -22,7 +22,7 @@ Features in the data set include:
 
 - price - price of each house
 - sqrt_price* - the square root of the price
-- price2* - dichotomous price variable, with 0 representing houses that are <$600,00, and 1 representing houses that are <=$600,000
+- price2** - dichotomous price variable, with 0 representing houses that are <$600,00, and 1 representing houses that are <=$600,000
 - sqft_living - square footage of the house
 - sqft_lot - square footage of the lot
 - sqft_above - square footage of the house apart from the basement
@@ -40,7 +40,8 @@ Features in the data set include:
 - lat - latitude coordinate of the house
 - long - longitude coordinate of the house
 
-**The sqrt_price and price2 variables are transformations that I had performed on the original price variable  
+*sqrt_price is a transformation that I had performed on the original price variable in order to fit regression models (see the "1 - EDA and visualizations.R" script). I created predictions on a square root transformation of price because the original price variable is heavily positively skewed.
+**price2 is a dichotomized price variable that I had created in order to fit categorization models (see the "6 - logistic regression.R" script).
 
 ##
 
