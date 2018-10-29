@@ -64,9 +64,11 @@ ggplot() +
   geom_path(data=king.county, aes(x=long, y=lat, group=group), color="black") +
   geom_point(data=king, aes(x = long, y = lat, color=price_q)) +
   scale_color_brewer(palette="BuPu") +
-  labs(x="longitude", y="latitude", color="Price Percentile") +
+  labs(x="longitude", y="latitude", color="Price Percentile",
+      title="Geographical distribution of houses in King County") +
   coord_quickmap() +
-  theme_bw() 
+  theme_bw() +
+  theme(plot.title=element_text(hjust=0.5, vjust=5))
 
 
 
