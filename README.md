@@ -5,7 +5,11 @@ In this project, I built statistical machine learning models to predict housing 
 
 The models that I built come from supervised learning methods for regression and classification, as well as unsupervised learning methods. The supervised regression methods I used include linear and nonlinear regression, subset selection, ridge regression and lasso, principal components regression, and decision trees such as bagging and random forests. The supervised categorization methods I used include logistic regression, linear and quadratic discriminant analysis, k-nearest neighbors, classification trees, and support vector machines. The unsupervised methods include principal components analysis and clustering. 
 
+Instead of reviewing all of the script files in this repository (which are described below), you can look go to http://htmlpreview.github.io/?https://github.com/lisahuang2/housing_data_ML/blob/master/king_county_markdown.html to view a sample of my work. You can also open the "king_county_markdown.pdf" document to see the same content in pdf format. This report was created with R Markdown. You can see the markdown code in the file called "king county markdown.rmd".      
+
 Credit goes to "An Introduction to Statistical Learning, with Applications in R," written by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani, for guidance on building the machine learning models, and to "R Graphics Cookbook," by Winston Chang, for guidance on creating the ggplot visualizations.  
+
+
 
 ##
 
